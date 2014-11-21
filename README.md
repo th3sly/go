@@ -1,6 +1,4 @@
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
-
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
+Kaggle (https://www.kaggle.com/wiki/Tutorials)
 
 ## The Open-Source Data Science Masters
 
